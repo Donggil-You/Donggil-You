@@ -6,7 +6,7 @@
     ## Preparing for employment
 # 2023
     ## activity with 한수원 comapny
-       ORBSLAM(https://github.com/Donggil-You/ORBSLAM.git)
+       [check my](./Donggil-You/ORBSLAM/README.md)
 <!--
 **Donggil-You/Donggil-You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
