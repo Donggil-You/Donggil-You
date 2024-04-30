@@ -1,15 +1,14 @@
 # Donggil's Diary 👋
 
 # 2024
-    ## Study
-    ## Stock
-    ## Preparing for employment
+> ## Study
+> ## Stock
+> ## Preparing for employment
 # 2023
-    ## activity with 한수원 comapny
-[      라이다](https://github.com/Donggil-You/Laidar.git)
-       한수원
-[           SLAM](https://github.com/Donggil-You/ORBSLAM.git)
-[           Deblur](https://github.com/Donggil-You/DeblurGAN.git)
+>    ## activity with 한수원 comapny<br/>
+>>[      라이다](https://github.com/Donggil-You/Laidar.git)<br/>
+>>[      SLAM](https://github.com/Donggil-You/ORBSLAM.git)<br/>
+>>[      Deblur](https://github.com/Donggil-You/DeblurGAN.git)<br/>
 <!--
 **Donggil-You/Donggil-You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
