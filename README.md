@@ -6,7 +6,7 @@
     ## Preparing for employment
 # 2023
     ## activity with 한수원 comapny
-       [check my] (https://github.com/Donggil-You/Laidar.git)
+       [check my](https://github.com/Donggil-You/Laidar.git)
 <!--
 **Donggil-You/Donggil-You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
