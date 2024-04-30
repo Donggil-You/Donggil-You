@@ -1,7 +1,12 @@
 # Donggil's Diary 👋
 
 # 2024
+    ## Study
+    ## Stock
+    ## Preparing for employment
 # 2023
+    ## activity with 한수원 comapny
+       
 <!--
 **Donggil-You/Donggil-You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
