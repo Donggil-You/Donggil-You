@@ -6,7 +6,7 @@
 > ## Preparing for employment
 # 2023
 >    ## activity with 한수원 comapny<br/>
->>[      라이다](https://github.com/Donggil-You/Laidar.git)<br/>
+>>[      LiDAR](https://github.com/Donggil-You/Laidar.git)<br/>
 >>[      SLAM](https://github.com/Donggil-You/ORBSLAM.git)<br/>
 >>[      Deblur](https://github.com/Donggil-You/DeblurGAN.git)<br/>
 <!--
