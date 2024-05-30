@@ -2,6 +2,7 @@
 
 # 2024
 > ## Study
+> > [CUDA]
 > ## Stock
 > > [floor_detection](git@github.com:Donggil-You/Detecting_floor.git)
 > ## Preparing for employment
